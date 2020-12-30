@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3df6c6a-444a-4a81-8777-fe6efee20582" name="Default Changelist" comment="vvvvfvvv">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="36060e78-f001-45e1-b96e-756147ad6065" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\asdrian\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hjSdk477gOjuhWx8xWO6FNxzXr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="eu.ydp.idea.ts.spec.generator.settings.spec.template" value="import {$ClassName$} from '$TestsRelativePath$../src/$classRelativePath$/$ClassName$';&#10;&#10;describe('$ClassName$', () =&gt; {&#10;  let $ObjName$:$ClassName$;&#10;&#10;  beforeEach(() =&gt; {&#10;    $ObjName$ = new $ClassName$();&#10;  });&#10;&#10;  describe('', () =&gt; {&#10;    it('', () =&gt; {&#10;      // given&#10;&#10;      // when&#10;&#10;      // then&#10;    });&#10;  });&#10;});&#10;" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekadiscoverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eurekadiscover" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.argo.eurekadiscover.EurekadiscoverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3df6c6a-444a-4a81-8777-fe6efee20582" name="Default Changelist" comment="" />
+      <created>1600523097900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600523097900</updated>
+      <workItem from="1600523100013" duration="6000" />
+      <workItem from="1600523253759" duration="206000" />
+      <workItem from="1600523510307" duration="179000" />
+      <workItem from="1600523737777" duration="1171000" />
+      <workItem from="1600525916282" duration="664000" />
+      <workItem from="1600527198772" duration="760000" />
+      <workItem from="1600546215430" duration="697000" />
+      <workItem from="1600575995941" duration="569000" />
+      <workItem from="1600577991349" duration="2688000" />
+      <workItem from="1600584486770" duration="983000" />
+      <workItem from="1600585650164" duration="913000" />
+      <workItem from="1600590506202" duration="2205000" />
+      <workItem from="1600626213471" duration="1713000" />
+      <workItem from="1600663942542" duration="2816000" />
+      <workItem from="1600684114185" duration="2537000" />
+      <workItem from="1600694989082" duration="2411000" />
+      <workItem from="1600762835839" duration="1875000" />
+      <workItem from="1600772187485" duration="1436000" />
+      <workItem from="1600850175670" duration="4271000" />
+      <workItem from="1600862060401" duration="2509000" />
+      <workItem from="1600904662376" duration="1009000" />
+      <workItem from="1600954293694" duration="815000" />
+      <workItem from="1601038802227" duration="1191000" />
+      <workItem from="1601046312645" duration="901000" />
+      <workItem from="1601097608067" duration="1889000" />
+      <workItem from="1601129690520" duration="654000" />
+      <workItem from="1601131487404" duration="90000" />
+      <workItem from="1601193387583" duration="3766000" />
+      <workItem from="1601276807246" duration="3234000" />
+      <workItem from="1601450347385" duration="3932000" />
+      <workItem from="1601472665096" duration="1278000" />
+      <workItem from="1601731515211" duration="1844000" />
+      <workItem from="1601801126307" duration="258000" />
+      <workItem from="1602091402583" duration="5636000" />
+      <workItem from="1602218987723" duration="55000" />
+      <workItem from="1602332642573" duration="508000" />
+      <workItem from="1602335548649" duration="1107000" />
+      <workItem from="1602520496453" duration="32000" />
+      <workItem from="1602520573251" duration="115000" />
+      <workItem from="1603755149380" duration="2816000" />
+      <workItem from="1604099009072" duration="49000" />
+      <workItem from="1604104665965" duration="1711000" />
+      <workItem from="1604162099887" duration="1759000" />
+      <workItem from="1604255484733" duration="1327000" />
+      <workItem from="1604275881642" duration="2428000" />
+      <workItem from="1604335803519" duration="5849000" />
+      <workItem from="1604563540634" duration="681000" />
+      <workItem from="1604592932061" duration="593000" />
+      <workItem from="1604634519861" duration="6000" />
+      <workItem from="1604634916958" duration="848000" />
+      <workItem from="1604645783532" duration="59000" />
+      <workItem from="1604645872236" duration="1116000" />
+      <workItem from="1604647095420" duration="873000" />
+      <workItem from="1604673194294" duration="394000" />
+      <workItem from="1604673687149" duration="469000" />
+      <workItem from="1605231862260" duration="765000" />
+      <workItem from="1605234614962" duration="6043000" />
+      <workItem from="1605299889999" duration="629000" />
+      <workItem from="1605677660443" duration="1195000" />
+      <workItem from="1605729590208" duration="6034000" />
+      <workItem from="1605830347545" duration="4430000" />
+      <workItem from="1605921735035" duration="366000" />
+      <workItem from="1605922231984" duration="1623000" />
+      <workItem from="1606264564740" duration="2449000" />
+      <workItem from="1606316131976" duration="1189000" />
+      <workItem from="1606396697423" duration="1298000" />
+      <workItem from="1606435273766" duration="212000" />
+    </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1605234799240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605234799240</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <created>1605235010112</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605235010112</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dedeee">
+      <created>1605236865831</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605236865831</updated>
+    </task>
+    <task id="LOCAL-00004" summary="dedeeedasdsada">
+      <created>1605236874498</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605236874498</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dedeeedasdsada">
+      <created>1605237004695</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605237004695</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ad">
+      <created>1605237016466</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605237016466</updated>
+    </task>
+    <task id="LOCAL-00007" summary="cdcd">
+      <created>1605238558112</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605238558112</updated>
+    </task>
+    <task id="LOCAL-00008" summary="vvvvfvvv">
+      <created>1605239086428</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605239086428</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <MESSAGE value="." />
+    <MESSAGE value="dedeee" />
+    <MESSAGE value="dedeeedasdsada" />
+    <MESSAGE value="ad" />
+    <MESSAGE value="cdcd" />
+    <MESSAGE value="vvvvfvvv" />
+    <option name="LAST_COMMIT_MESSAGE" value="vvvvfvvv" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="347" y="165" key="#Notifications" timestamp="1600523412173">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="347" y="165" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1600523412173" />
+    <state x="121" y="0" key="#Project_Structure" timestamp="1600585160478">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1600585160478" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1604645845354">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604645845354" />
+    <state width="1237" height="303" key="GridCell.Tab.0.bottom" timestamp="1606435504283">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="303" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606435504283" />
+    <state width="1237" height="303" key="GridCell.Tab.0.center" timestamp="1606435504282">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="303" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606435504282" />
+    <state width="1237" height="303" key="GridCell.Tab.0.left" timestamp="1606435504282">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="303" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606435504282" />
+    <state width="1237" height="303" key="GridCell.Tab.0.right" timestamp="1606435504283">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="303" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606435504283" />
+    <state width="1237" height="303" key="GridCell.Tab.1.bottom" timestamp="1606288179152">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="303" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606288179152" />
+    <state width="1237" height="303" key="GridCell.Tab.1.center" timestamp="1606288179152">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="303" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1606288179152" />
+    <state width="1237" height="303" key="GridCell.Tab.1.left" timestamp="1606288179151">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="303" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1606288179151" />
+    <state width="1237" height="303" key="GridCell.Tab.1.right" timestamp="1606288179152">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="303" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1606288179152" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1606398484600">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1606398484600" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1605239193451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605239193451" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605236996179">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1605236996179" />
+    <state x="91" y="0" key="new project wizard" timestamp="1606398710307">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1606398710307" />
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1606435408004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1606435408004" />
+  </component>
+</project>
